@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ApptiveDev/apptive-18th-team4-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ApptiveDev/apptive-18th-team4-frontend.git
