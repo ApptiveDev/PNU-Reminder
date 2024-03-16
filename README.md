@@ -1,10 +1,6 @@
 # PNU-Reminder
 Customized services with the information &amp;amp; schedules and Finding nearest empty office location to user
 
-Deploy based on AWS EKS
-
-Jsprit (Based on TSP, VRP algorithm) + OpenStreet(Structure) in PNU(college campus)
-
 ## 배포 / Deploy
 ![image](https://github.com/ApptiveDev/apptive-18th-team4-backend/assets/81455273/a5a104b6-6cb2-4891-acc5-37864ebeaa36)
 
